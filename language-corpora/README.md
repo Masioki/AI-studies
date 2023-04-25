@@ -3,6 +3,8 @@
 This exercise focused on measuring performance of classification task using embedding models trained on different language corporas.
 Binary classification (pos/neg) of Booking.com reviews (>100k) was chosen as a task.
 
+Co-author: [MrMiodek](https://github.com/MrMiodek)
+
 ## Classification models
 - Simple MLP
 - LSTM based
