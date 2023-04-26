@@ -3,6 +3,8 @@
 Goal of this project was to create a tool for geospatial sentiment analisys of certain topics in social media.
 Results of our project were summed up on attached poster and presented at open days, media days and AI days on Wrocław University of Science and Technology.
 
+Co-authors: [mprzymus](https://github.com/mprzymus), [tomdrozdz](https://github.com/tomdrozdz)
+
 ## How it works ?
 ### Data
 Data was scrapped from Twitter using [snscrape](https://github.com/JustAnotherArchivist/snscrape).
