@@ -36,3 +36,4 @@ As a result, we got a map of sentiment for each topic in each city.
 This map can be used to determine how sentiment of certain topics changes over time.  
 Such information can be correlated with real-life events, government decisions etc., for example we can see how restrictions during Covid-19 pandemics strongly affected people's feelings about economical situation.
 
+![poster.png](poster.png)
