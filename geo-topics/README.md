@@ -3,6 +3,7 @@
 Goal of this project was to create a tool for geospatial sentiment analisys of certain topics in social media.
 Results of our project were summed up on attached poster and presented at open days, media days and AI days on Wrocław University of Science and Technology.
 
+Presented at [Wrocław University of Science and Technology](https://wit.pwr.edu.pl/aktualnosci/co-student-sztucznej-inteligencji-widzi-w-mediach-spolecznosciowych-158.html)
 Co-authors: [mprzymus](https://github.com/mprzymus), [tomdrozdz](https://github.com/tomdrozdz)
 
 ## How it works ?
